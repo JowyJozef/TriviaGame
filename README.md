@@ -13,5 +13,5 @@ A timed multiple choice trivia question game that will ask you one question ever
 
     * If the player chooses the wrong answer, the player will be notified that they selected the wrong option and the correct answer will be displayed. After a few seconds, the next question will display without user input.
 
-    * On the final screen, it will show the totalnumber of correct answers, incorrect answers, and an option to restart the game (without reloading the page).
+    * On the final screen, it will show the total number of correct answers, incorrect answers, and an option to restart the game (without reloading the page).
 
