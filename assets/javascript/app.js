@@ -10,7 +10,7 @@ $(document).ready(function () {
             question: "What is Goku's race?", 
             choice: ["Saiyan", "Earthling", "Namekian", "Android"],
             answer: 0,
-            photo: "assets/images/saiyangoku.gif"
+            photo: "assets/images/goku1.gif"
         }, 
         {
             question: "Who is Trunks father?", 
