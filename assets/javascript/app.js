@@ -1,19 +1,19 @@
 $(document).ready(function () {
     var options = [
         {
-            question: "Pupusas, handmade thick stuffed corn tortillas, are a traditional dish from what country?", 
-            choice: ["Ethiopia", "El Salvadore", "Peru", "Guatamala"],
-            answer: 1,
-            photo: "assets/images/pupusas.jpg"
+            question: "What is the name of Goku's first son?", 
+            choice: ["Trunks", "Krillin", "Gohan", "Dende"],
+            answer: 2,
+            photo: "assets/images/gohan.gif"
          },
          {
-             question: "What popular soda beverage was originally developed as a mixer for whiskey?", 
-            choice: ["Mountain Dew", "Sprite", "7-UP", "Coke"],
+            question: "What is Goku's race?", 
+            choice: ["Saiyan", "Earthling", "Namekian", "Android"],
             answer: 0,
             photo: "assets/images/mtdew.gif"
          }, 
          {
-             question: "Kopi luwak is a very expensive type of what?", 
+            question: "Kopi luwak is a very expensive type of what?", 
             choice: ["Spice", "Caviar", "Coffee", "Rice variety" ],
             answer: 2,
             photo: "assets/images/coffee.gif"
