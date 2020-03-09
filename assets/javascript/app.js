@@ -5,48 +5,48 @@ $(document).ready(function () {
             choice: ["Trunks", "Krillin", "Gohan", "Dende"],
             answer: 2,
             photo: "assets/images/gohan.gif"
-         },
-         {
+        },
+        {
             question: "What is Goku's race?", 
             choice: ["Saiyan", "Earthling", "Namekian", "Android"],
             answer: 0,
-            photo: "assets/images/mtdew.gif"
-         }, 
-         {
-            question: "Kopi luwak is a very expensive type of what?", 
-            choice: ["Spice", "Caviar", "Coffee", "Rice variety" ],
-            answer: 2,
-            photo: "assets/images/coffee.gif"
+            photo: "assets/images/saiyangoku.gif"
         }, 
         {
-            question: "Which is not an ingredient in a Harvey Wallbanger cocktail?", 
-            choice: ["Orange Juice", "Vodka", "Sour Mix", "Galliano" ],
-            answer: 2,
-            photo: "assets/images/harvey.jpg"
+            question: "Who is Trunks father?", 
+            choice: ["Gohan", "Vegeta", "Mr. Popo", "Piccolo" ],
+            answer: 1,
+            photo: "assets/images/trunks.gif"
         }, 
         {
-            question: "How many items are there in a Bakers' Dozen?", 
-            choice: ["12", "6", "24", "13" ],
+            question: "What's the name of Gohan's wife?", 
+            choice: ["Chi Chi", "Pan", "Android 18", "Videl" ],
             answer: 3,
-            photo: "assets/images/dozen.jpg"
+            photo: "assets/images/videl.gif"
         }, 
         {
-            question: "What is the most widely eaten fish in the world?", 
-            choice: ["Tilapia", "Herring", "Sardine", "Tuna" ],
+            question: "Recoome is part of what team?", 
+            choice: ["Sayains", "Ginyu Force", "Nameks", "Androids" ],
             answer: 1,
-            photo: "assets/images/herring.jpg"
+            photo: "assets/images/recoome.gif"
         }, 
         {
-            question: "Which fruit does not ripen once it has been picked?", 
-            choice: ["Banana", "Lemon", "Mango", "Apple" ],
+            question: "Who is Trunk's sister?", 
+            choice: ["Pan", "Bulla", "Videl", "Jeice" ],
             answer: 1,
-            photo: "assets/images/lemon.gif"
+            photo: "assets/images/bulla.gif"
         }, 
         {
-            question: "Which fruit contains the most protein per 100 calories?", 
-            choice: ["Guava", "Avocado", "Banana", "Blackberries" ],
+            question: "Who turned Vegeta into Majin Vegeta?", 
+            choice: ["Broly", "Frieza", "Babidi", "Majin Buu" ],
+            answer: 2,
+            photo: "assets/images/majinVegeta.gif"
+        }, 
+        {
+            question: "Who chopped Frieza into pieces?", 
+            choice: ["Trunks", "Goku", "Gohan", "Vegeta" ],
             answer: 0,
-            photo: "assets/images/guava.gif"
+            photo: "assets/images/trunks1.gif"
         }];
     
     var correctCount = 0;
