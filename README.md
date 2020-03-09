@@ -3,15 +3,12 @@ Trivia Game using JQuery/HTML/CSS/Javascript - UCF Bootcamp
 
 ### Overview
 
-Dragon Ball Z Trivia Game
+## Dragon Ball Z Trivia Game
 
-Trivia Game that shows only one question until the player answers it or their time runs out.
+A timed multiple choice trivia question game that will ask you one question every 20 seconds until the player guesses or the time runs out.
 
-* If the player selects the correct answer, a screen congratulating them for choosing the right option. After a few seconds, display the next question -- do this without user input.
+    * If the player selects the correct answer, a screen will pop up congratulating them for choosing the right option. After a few seconds, the next question will display without user input.
 
-* The scenario is similar for wrong answers and time-outs.
+    * If the player chooses the wrong answer, the player will be notified that they selected the wrong option and the correct answer will be displayed. After a few seconds, the next question will display without user input.
 
-  * If the player runs out of time, tell the player that time's up and display the correct answer. Wait a few seconds, then show the next question.
-  * If the player chooses the wrong answer, tell the player they selected the wrong option and then display the correct answer. Wait a few seconds, then show the next question.
-
-* On the final screen, show the number of correct answers, incorrect answers, and an option to restart the game (without reloading the page).
+    * On the final screen, it will show the totalnumber of correct answers, incorrect answers, and an option to restart the game (without reloading the page).

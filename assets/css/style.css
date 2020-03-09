@@ -1,8 +1,8 @@
 .answerchoice {
-	border: 1px solid black;
+  border: 1px solid black;
   border-radius: 5%;
-	width: 40%;
-	color: black;
+  width: 40%;
+  color: black;
   text-align: center;
   margin: 10px auto;
   font-size: 20px;
@@ -67,4 +67,11 @@ h2, h4 {
 .btn {
   position: relative;
   bottom: -150px;
+}
+
+footer {
+    background-color: rgba(255, 255, 255, 0.4);
+    clear: both;
+    text-align: center;
+    margin-top: 105px;
 }
